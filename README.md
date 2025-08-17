@@ -1,16 +1,18 @@
 # Kenny's Salad Extravaganza - Website Frontend
 
-This is a frontend website for ordering and customizing salads; starting with a base, adding/removing ingredients, and submitting an order with payment.<br><br>
+This is a frontend website for ordering and customizing salad orders; start with a base, add/remove ingredients, and submit an order with payment.<br>
 
-Planned payment API integrations will include Cashapp and PayPal, with Visa and MasterCard as stretch goals once we've completed UAT with the client.<br><br>
+Planned payment API integrations will include Cashapp and PayPal, with Visa and MasterCard as stretch goals once we've completed UAT with the client.<br>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Tech stack
+Library: React<br>
+Cloud provider: Azure
 
-Currently, two official plugins are available:
+Local testing:<br>
+1.) Navigate to root directory<br>
+2.) Execute the following command: <strong>npm run dev</strong><br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Wireframe: TBA<br>
+Journey Map:  TBA<br>
+Empathy Map: TBA<br>
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
